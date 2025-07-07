@@ -1,4 +1,4 @@
-# Awesome Bot Base
+# Comands for scripts
 
 > [!NOTE] 
 > This project **base** can be generated using the [Constant CLI](https://github.com/rinckodev/constatic)
